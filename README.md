@@ -1,5 +1,5 @@
 # TODO list
-A simple application for my new repository
-
+A simple app to manage your daily tasks.
+It uses HTML5 and CSS3.
 ## Features
-as start working with git and githun effectivitly
+* List of daily tasks
