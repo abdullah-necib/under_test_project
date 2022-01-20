@@ -1,4 +1,3 @@
-develop $conflicts and stuff
-
-this name have been added because i m looking for conflict
+develop
+this line didn't changed -- it is new
 
