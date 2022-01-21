@@ -1,2 +1,2 @@
-case 1
+case 1 case2
 case 2
