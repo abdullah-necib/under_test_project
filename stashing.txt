@@ -1,4 +1,5 @@
 stashing file
+<<<<<<< Updated upstream
 add some stashing items.
 stashing file
 add some stashing items.
@@ -6,3 +7,6 @@ stashing file
 add some stashing items.
 stashing file
 add some stashing items.
+=======
+add some information to stash
+>>>>>>> Stashed changes
