@@ -1,3 +1,5 @@
+# REVIEW:
+THIS FOLDER IS FOR BEGINIG GIT AND GITHUB LEARNING ONLY
 # TODO list
 A simple app to manage your daily tasks.
 It uses HTML5 and CSS3.

@@ -1,0 +1,2 @@
+stashing file
+add some information to stash
